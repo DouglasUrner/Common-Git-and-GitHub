@@ -1,0 +1,4 @@
+[submodule "GH.1-account-setup"]
+	path = GH.1-account-setup
+	url = https://github.com/DouglasUrner/GitHub-GH.1-Getting-Started.git
+	branch = master
