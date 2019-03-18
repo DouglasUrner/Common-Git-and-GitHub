@@ -6,3 +6,7 @@
 	path = GH.2-git-intro
 	url = https://github.com/DouglasUrner/GitHub-GH.2-Git-Intro.git
 	branch = master
+[submodule "GH.3-new-repo"]
+	path = GH.3-new-repo
+	url = https://github.com/DouglasUrner/GitHub-GH.3-new-repo.git
+	branch = master
