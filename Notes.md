@@ -50,6 +50,12 @@ Plus - seaching for how to do something you don't know/remember.
 
 [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - collaborating through Git.
 
+### Tools
+
+* JetBrains
+* GitHub
+* Git for Windows
+
 ## Unity/Rider Notes
 
 * Make sure files are serialized as ASCII
