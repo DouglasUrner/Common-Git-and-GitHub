@@ -2,3 +2,7 @@
 	path = GH.1-account-setup
 	url = https://github.com/DouglasUrner/GitHub-GH.1-Getting-Started.git
 	branch = master
+[submodule "GH.2-git-intro"]
+	path = GH.2-git-intro
+	url = https://github.com/DouglasUrner/GitHub-GH.2-Git-Intro.git
+	branch = master
