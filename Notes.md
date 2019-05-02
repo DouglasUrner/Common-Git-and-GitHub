@@ -59,6 +59,10 @@ Plus - seaching for how to do something you don't know/remember.
 ## Unity/Rider Notes
 
 * Make sure files are serialized as ASCII
+  - Visible meta files
+  - Force text serialization
 * Turn on Git-LFS
+  - ```git lfs install```
+  - Install Unity .gitattributes
 
 ## Java/InteliJ Notes
